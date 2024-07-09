@@ -56,6 +56,6 @@ const findIndicesTwoPointers = (arr, target) => {
   return [];
 };
 
-const re = findIndicesTwoPointers([1, 2, 2, 5], 4);
+const re = findIndicesTwoPointers([1, 2, 3, 4, 6], 6);
 
 console.log(re);
