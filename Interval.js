@@ -9,3 +9,5 @@ function intervalExecution() {
     }
   }, 1000);
 }
+
+intervalExecution();
